@@ -38,7 +38,7 @@ export function Login() {
             <Lock className="h-6 w-6 text-primary" />
           </div>
           <h2 className="mt-6 text-3xl font-bold text-gray-900 dark:text-white">
-            Sign in to your account
+            Sign in here
           </h2>
         </div>
 
